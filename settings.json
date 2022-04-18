@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    {
+      "id": "start-muted-plugin-1.0",
+      "srcURL": "plugins/start-muted/start-muted.plugin.package.json",
+      "enabled": true
+    }
+  ]
+}

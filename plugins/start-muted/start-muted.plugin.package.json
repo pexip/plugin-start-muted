@@ -1,0 +1,10 @@
+{
+    "id": "start-muted-plugin-1.0",
+    "name": "start-muted",
+    "description": "Joining a conference with the microphone and camera muted",
+    "version": 1.0,
+    "srcURL": "start-muted.plugin.js",
+    "allowUnload": true,
+    "platforms": ["web", "electron", "ios", "android"],
+    "participantRoles": ["chair", "guest"]
+}
